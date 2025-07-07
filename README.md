@@ -11,7 +11,8 @@
 
 ## Screenshots
 
-*(You can insert screenshots here later, for example showing the menu.)*
+![SCREEN SHOOT](ZEN_TOOLS.png)
+
 
 ## Installation
 
@@ -19,5 +20,5 @@ Make sure you have **Python 3.8+** installed.
 Then clone the repository:
 
 ```bash
-git clone https://github.com/zen-Hikari/hikari_Tools
-cd hikari_Tools
+git clone https://github.com/zen-Hikari/ZEN_TOOLS
+cd ZEN_TOOLS
