@@ -1,4 +1,4 @@
-**hikari_Tools** is a multipurpose information security toolkit written in Python. It is designed for penetration testers, bug bounty hunters, and cybersecurity enthusiasts to simplify common reconnaissance tasks.
+**Zen_Tools** is a multipurpose information security toolkit written in Python. It is designed for penetration testers, bug bounty hunters, and cybersecurity enthusiasts to simplify common reconnaissance tasks.
 
 ## Features
 
