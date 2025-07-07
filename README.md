@@ -10,15 +10,16 @@
 ✅ Easy to use and extend
 
 ## Screenshots
-
-![SCREEN SHOOT]()
+<p align="center">
+  <img src="ZEN_TOOLS.png" alt="ZEN TOOL" width="800"/>
+</p>
 
 
 ## Installation
 
-Make sure you have **Python 3.8+** installed.  
+Make sure you have **Python** installed.  
 Then clone the repository:
 
 ```bash
-git clone https://github.com/zen-Hikari/ZEN_TOOLS
-cd ZEN_TOOLS
+git clone https://github.com/zen-Hikari/Zen_TOOLS
+cd Zen_TOOLS
